@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on and looking to collaborate on [react-davinci-editor](https://github.com/vanssign/react-davinci-editor)
 
-- 🌱 I’m currently learning **Three.js and GraphQL**
+- 🌱 I’m currently learning **Angular, Three.js and GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://vanssign.herokuapp.com/](https://vanssign.herokuapp.com/)
 
