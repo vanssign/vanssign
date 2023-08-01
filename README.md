@@ -1,11 +1,7 @@
 <h1>Hey , I'm Vansh</h1>
-<h3>A final year student at Delhi Technological University, India</h3>
+<h3>A Software Developer working at in HrTech domain</h3>
 
 - I’m currently working on and looking to collaborate on [react-davinci-editor](https://github.com/vanssign/react-davinci-editor)
-
-- I’m currently learning **Angular, Three.js and GraphQL**
-
-- All of my projects are available at [https://vanssign.herokuapp.com/](https://vanssign.herokuapp.com/)
 
 - Reach me at **thindvansh1999@gmail.com**
 
