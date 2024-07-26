@@ -1,5 +1,5 @@
 <h1>Hey , I'm Vansh</h1>
-<h3>A Software Developer working at in HrTech domain</h3>
+<h3>A Senior Software Developer working at in HrTech domain</h3>
 
 - I’m currently working on and looking to collaborate on [react-davinci-editor](https://github.com/vanssign/react-davinci-editor)
 
